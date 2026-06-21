@@ -67,7 +67,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -80,7 +80,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -93,7 +93,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -106,7 +106,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -119,7 +119,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -132,7 +132,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -145,7 +145,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -158,7 +158,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -171,7 +171,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -184,7 +184,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -197,7 +197,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -210,7 +210,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -223,7 +223,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -236,7 +236,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -249,7 +249,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -262,7 +262,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -275,7 +275,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -288,7 +288,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -301,7 +301,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -314,7 +314,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -327,7 +327,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -340,7 +340,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -353,7 +353,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -366,7 +366,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -379,7 +379,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -392,7 +392,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -405,7 +405,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -418,7 +418,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -431,7 +431,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -444,7 +444,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -457,7 +457,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -559,7 +559,7 @@
       "pattern": "(?i)\\b(pcok|peacock)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Peacock-V7.png",
       "tagColor": "#00000000",
-      "borderColor": "#f5b400",
+      "borderColor": "#ffea00",
       "textColor": "#00000000",
       "tagStyle": "bordered",
       "isEnabled": true,
@@ -585,7 +585,7 @@
       "pattern": "(?i)\\b(dscp|dply|discovery\\+|discoveryplus)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/discovery+-V4.png",
       "tagColor": "#00000000",
-      "borderColor": "#00fbff",
+      "borderColor": "#ff00dd",
       "textColor": "#00000000",
       "tagStyle": "bordered",
       "isEnabled": true,
@@ -599,6 +599,19 @@
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Crunchyroll-V4.png",
       "tagColor": "#00000000",
       "borderColor": "#ff8800",
+      "textColor": "#00000000",
+      "tagStyle": "bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "mgm-plus",
+      "groupId": "streaming-service",
+      "name": "MGM+",
+      "pattern": "(?i)\\b(mgm\\+|mgmplus|mgp)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/MGM+-V2.png",
+      "tagColor": "#00000000",
+      "borderColor": "#977d26",
       "textColor": "#00000000",
       "tagStyle": "bordered",
       "isEnabled": true,
